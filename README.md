@@ -15,3 +15,69 @@
 - **Rofiq Cahyo Prayogo, S.T., M.T.**  
 
 ---
+
+## Lampiran
+
+### 1. Part Plate
+
+#### Plate Part 1
+![Plate Part 1](Images/plate-part-1.png)
+
+- **Density:** 0.0027 grams per cubic milimeter
+- **Mass:** 67288.8807 grams
+
+#### Plate Part 2
+![Plate Part 2](Images/plate-part-2.png)
+
+- **Density:** 0.0027 grams per cubic milimeter
+- **Mass:** 74133.33 grams
+
+### 2. Part Tool Block
+
+#### Tool Block
+
+- **Density:** (xxx)
+- **Mass:** (xx)
+
+### 3. Part Tank
+
+#### Tank Part 1
+
+- **Density:** (xxx)
+- **Mass:** (xxx)
+
+#### Tank Part 2
+
+- **Density:** (xxx)
+- **Mass:** (xxx)
+
+### 4. Part Wheel
+
+#### Wheel Part 1
+![Wheel Part 1](Images/wheel-part-1.png)
+
+- **Density:** 0.0027 grams per cubic milimeter
+- **Mass:** 62171.8744 grams
+
+#### Wheel Part 2
+![Wheel Part 2](Images/wheel-part-2.png)
+
+- **Density:** 0.0027 grams per cubic milimeter
+- **Mass:** 24316.8682 grams
+
+### 5. Part Bracket
+
+#### Bracket Part 1
+
+- **Density:** (xxx)
+- **Mass:** (xxx)
+
+#### Bracket Part 2
+
+- **Density:** (xxx)
+- **Mass:** (xxx)
+
+#### Bracket Part 3
+
+- **Density:** (xxx)
+- **Mass:** (xxx)
