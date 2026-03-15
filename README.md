@@ -35,9 +35,10 @@
 ### 2. Part Tool Block
 
 #### Tool Block
+![Tool Block](Images/tool-block.png)
 
-- **Density:** (xxx)
-- **Mass:** (xx)
+- **Density:** 0.0027 grams per cubic milimeter
+- **Mass:** 642,50 grams
 
 ### 3. Part Tank
 
