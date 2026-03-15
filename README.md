@@ -42,14 +42,16 @@
 ### 3. Part Tank
 
 #### Tank Part 1
+![Tank Part 1](Images/tank-part-1.png)
 
-- **Density:** (xxx)
-- **Mass:** (xxx)
+- **Density:** 0.0027 grams per cubic milimeter
+- **Mass:** 5760.5937 grams
 
 #### Tank Part 2
+![Tank Part 2](Images/tank-part-2.png)
 
-- **Density:** (xxx)
-- **Mass:** (xxx)
+- **Density:** 0.0027 grams per cubic milimeter
+- **Mass:** 6210.7005 grams
 
 ### 4. Part Wheel
 
